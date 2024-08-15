@@ -1,0 +1,20 @@
+repos
+temp
+tmp
+
+**._*
+**/.DS_Store
+.DS_Store
+
+__pycache__
+**/__pycache__
+
+working
+build
+dist
+
+archives
+
+# dont include secrets!
+config_github.py
+config_gitlab.py
